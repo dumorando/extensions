@@ -1,4 +1,4 @@
-git clone https://codeberg.org/dumo/extensions
+git clone https://git.gay/dumo/extensions
 cd extensions
 npm i
 npm run build
